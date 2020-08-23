@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Programmatically
+
+  Created by Satyadev Chauhan on 24/08/20.
+  Copyright © 2020 Satyadev Chauhan. All rights reserved.
+*/
+
+"OK" = "OK";
+"Filter" = "Filter";
+"All" = "All";
+"Dismiss" = "Dismiss";
+"Id: " = "Id: ";
+"Type: " = "Type: ";
+"Date: " = "Date: ";
+"Data: " = "Data: ";
+"List" = "List";
+"ListParam" = "List - %@";
+"IdParam" = "Id - %@";
+"Error" = "Error";
+"NoData" = "No data to display.";
+"FailedImage" = "Failed to load the image.";
